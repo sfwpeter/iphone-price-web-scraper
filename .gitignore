@@ -1,14 +1,4 @@
-# Virtual environment
 venv/
-
-# Python cache files
 __pycache__/
-*.pyc
-
-# IDE-specific files
 .vscode/
 .idea/
-
-# Data files (optional, if you don't want to track them)
-live_prices.csv
-generated_prices.csv
